@@ -1,7 +1,7 @@
 --Cleaning data
 
 SELECT *
-FROM ashvilleHousing
+FROM NashvilleHousing
 
 --Standardize date format (This tep ensures that the date format is consistent throughtout the dataset)
 
